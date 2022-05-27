@@ -19,18 +19,19 @@
 .introducao h1::before {
   content: "";
   display: block;
-  width: 130px;
-  height: 100px;
+  width: 90px;
+  height: 20px;
   background: url("../img/detalhe.png") no-repeat center;
   position: absolute;
-  top: -20px;
+  top: 3px;
   left: -40px;
   z-index: -1;
+  opacity: 0.5;
 }
 
 .introducao p {
   font-size: 1.5rem;
-  color: #e5202b;
+  color: #f24452;
 }
 
 @media (max-width: 1000px) {

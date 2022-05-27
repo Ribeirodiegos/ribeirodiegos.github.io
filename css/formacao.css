@@ -25,7 +25,7 @@
 }
 
 .formacao .subtitulo {
-  color: #e5202b;
+  color: #111;
 }
 
 .formacao-texto {
@@ -33,11 +33,11 @@
   line-height: 1.33;
   max-width: 40ch;
   margin-bottom: 60px;
-  color: #f24452;
+  color: #ffffff;
 }
 
 .formacao-texto strong {
-  color: #ffffff;
+  color: #f24452;
 }
 
 .faculdade-lista {

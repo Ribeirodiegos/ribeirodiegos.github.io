@@ -8,7 +8,7 @@
 }
 
 .experiencia .subtitulo {
-  color: #e5202b;
+  color: #525252;
 }
 
 .experiencia-texto {
@@ -16,11 +16,11 @@
   line-height: 1.33;
   max-width: 40ch;
   margin-bottom: 60px;
-  color: #f24452;
+  color: #141414;
 }
 
 .experiencia strong {
-  color: #141414;
+  color: #f24452;
 }
 
 .empresa {
