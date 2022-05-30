@@ -1,0 +1,27 @@
+NOTAS DIARIAS DO PROJETO
+
+O intuito desse arquivo é tentar documentar notas diárias dos seguintes tópicos:
+
+=> Oque foi feito no código hoje ?
+
+=> Quais erros você achou para arrumar amanha?
+
+=> Os erros de ontem foram corrigidos ?
+
+Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter subgrupos para melhor resolução .
+
+=================================\\\\\\\\\\\\\\\================================
+
+DIA 28/05/2022
+
+=> Oque foi feito no código hoje ?
+R.: Hoje me propus a arrumar os logos das redes sociais sem olhar em nenhum dos videos dos cursos, então fui inspecionando as paginas na internet até achar um próximo ao que eu gostaria;
+Foi implementado também as notas do projeto, que era uma das pendências para o fim de semana.
+
+=> Quais erros você achou para arrumar amanha?
+R.: O footer ainda esta sem responsivo.
+
+=> Os erros de ontem foram corrigidos ?
+R.: Tamanho da logo das redes sociais ajustado para o tamanho certo;
+Comecei a utilizar o Affinity para tentar suprir a parte de design;
+Toquei de navegador (do safari para chrome) para ver se resolve o problema de lentidão no navegador.
