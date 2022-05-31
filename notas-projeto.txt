@@ -12,6 +12,21 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 31/05/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Ajustado responsividade do footer.
+    2- Corrigido oalinhamento dos ícones do footer.
+    3- Testes feitos em diferentes navegadores [ok].
+
+=> Quais erros você achou para arrumar amanha?
+R.: 1- Sem erros encontrados.
+
+=> Os erros de ontem foram corrigidos ?
+R.: 1- Sim, todos no footer.
+
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 28/05/2022
 
 => Oque foi feito no código hoje ?
