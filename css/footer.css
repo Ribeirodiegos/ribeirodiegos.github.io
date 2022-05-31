@@ -9,6 +9,15 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 100px;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+    /* align-items: center; */
+    /* text-align: center; */
+  }
 }
 
 .footer-texto {
